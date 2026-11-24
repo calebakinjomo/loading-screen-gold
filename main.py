@@ -3,6 +3,8 @@
 
 Writes a single loading-screen tip (<= 200 characters) for stressed
 developers and AI coding agents to /output/entry.txt and prints it.
+The advice is deliberately boring on purpose: slow down, read, change
+one thing, and test — the smallest habits that save the most debugging time.
 """
 
 import os
